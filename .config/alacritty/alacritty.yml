@@ -1,0 +1,48 @@
+window:
+  # pixels to pad
+  padding:
+    x: 3
+    y: 3
+
+font:
+  size: 14.0
+  use_thin_strokes: false
+
+draw_bold_text_with_bright_colors: true
+
+# solarized high contrast
+colors:
+  # Default colors
+  primary:
+    background: '0x002833'
+    foreground: '0xabccce'
+
+  # Normal colors
+  normal:
+    black:   '0x003541'
+    red:     '0xdc322f'
+    green:   '0x7cc77f'
+    yellow:  '0xb58901'
+    blue:    '0x268bd2'
+    magenta: '0xd33682'
+    cyan:    '0x2aa198'
+    white:   '0xeee8d5'
+
+  # Bright colors
+  bright:
+    black:   '0x00779a'
+    red:     '0xf9324b'
+    green:   '0x5cee96'
+    yellow:  '0xc09035'
+    blue:    '0x11a0d2'
+    magenta: '0xea68a0'
+    cyan:    '0x00beae'
+    white:   '0xfdf6e3'
+
+  cursor:
+    cursor:  '#f86100'
+
+background_opacity: 0.99
+
+
+
